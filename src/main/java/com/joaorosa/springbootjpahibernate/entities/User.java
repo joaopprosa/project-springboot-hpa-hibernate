@@ -1,4 +1,4 @@
-package com.joaorosa.projectspringbootjpahibernate.entities;
+package com.joaorosa.springbootjpahibernate.entities;
 
 import java.io.Serializable;
 

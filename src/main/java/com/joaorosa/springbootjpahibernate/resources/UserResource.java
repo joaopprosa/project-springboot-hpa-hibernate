@@ -1,11 +1,11 @@
-package com.joaorosa.projectspringbootjpahibernate.resources;
+package com.joaorosa.springbootjpahibernate.resources;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.joaorosa.projectspringbootjpahibernate.entities.User;
+import com.joaorosa.springbootjpahibernate.entities.User;
 
 @RestController
 @RequestMapping(value = "/users")
